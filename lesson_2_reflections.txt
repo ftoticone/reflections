@@ -1,0 +1,3 @@
+When a repository is initialized, a directory called .git is created. The .git directory contains all metadata related to repository
+
+The staging area contains only modified files that are related to the same logic block according to the developer will commit them. The working copy contains all last version files while the repository contains all files with their history. The importance of staging area consists in the possibility the group some of the modifies files to commit them as a single logic unit.
