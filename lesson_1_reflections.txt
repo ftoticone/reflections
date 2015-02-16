@@ -1,0 +1,7 @@
+I think that difference between two files is an useful way to find bugs and fix them.
+
+File history can allow me to compare easily old versions with last one and so I can find in short time a solution or a bug fix.
+
+The big issue about manual commits is that the developer decide when commiting and so a wrong decision should be fatal.
+
+Multiple file commits are allowed because in projects files are related to other ones and so tracking files in one commit allow developers to build up a single logic unit. 
