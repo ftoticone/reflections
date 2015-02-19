@@ -1,3 +1,11 @@
 When a repository is initialized, a directory called .git is created. The .git directory contains all metadata related to repository
 
 The staging area contains only modified files that are related to the same logic block according to the developer will commit them. The working copy contains all last version files while the repository contains all files with their history. The importance of staging area consists in the possibility the group some of the modifies files to commit them as a single logic unit.
+
+I'm sure to commit one or more files into one logical unit by adding the files to staging area with command git add.
+
+Branches are useful when it needs to have a production version for a possible bug fixing while development of new features continues on master branch.
+
+Merging two branches together allows us to have a single line of code made of the commits of the two branches.
+
+Automatic merging is faster and more simple than manual one, but it can import some code that isn't useful. 
