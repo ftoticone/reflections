@@ -4,4 +4,8 @@ I want push changes manually because maybe I have not always internet connection
 
 Forks and clones are the same thing, but the main difference is that a fork is used only in github to create a copy of arepository from an account to an another one. Branch is used to create a different line of code (for example to develop new features) that coexists with the previous line and maybe in future these two lines could be merged into a single line of code.
 
-The benefit is about being free to working and after it committing maybe resolving possible conflicts. 
+The benefit is about being free to working and after it committing maybe resolving possible conflicts.
+
+Without using git or github, I could change directly my project files and pass them to other people with I could speak about them through chat, but in this way I will loos file history, checking of conflicts and the possibilty to merge different lines of code. Besides I will not able to track messages and consideration of people about every changes of the project.
+
+
