@@ -1,1 +1,7 @@
 I want use a remote repository rathen than a local because I want to share my project and/or have a backup copy.
+
+I want push changes manually because maybe I have not always internet connection avaible to push changes.
+
+Forks and clones are the same thing, but the main difference is that a fork is used only in github to create a copy of arepository from an account to an another one. Branch is used to create a different line of code (for example to develop new features) that coexists with the previous line and maybe in future these two lines could be merged into a single line of code.
+
+The benefit is about being free to working and after it committing maybe resolving possible conflicts. 
